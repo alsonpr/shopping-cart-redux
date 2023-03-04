@@ -17,7 +17,7 @@ function App() {
   };
 
   const handleRemoveProduct = (product) => {
-    const quantity = 1
+    const quantity = product.quantity
     dispatch(removeProduct({ id: product.id, price:product.price, quantity }));
   };
 
