@@ -1,6 +1,6 @@
 ## Description
 
-This React app has been designed with simplicity in mind. The code has been written in a way that is easy to understand, making it a great starting point for those who are new to React and Redux. It is an ideal choice for anyone looking for a reliable and easy-to-use shopping cart solution and offers users the ability to effortlessly add, remove, and update products with ease. The app has been developed using the popular Redux and Redux-persist libraries, ensuring that it delivers seamless and efficient performance. 
+This React app has been designed with simplicity in mind. The code has been written in a way that is easy to understand, making it a great starting point for those who are new to React and Redux. It is an ideal choice for anyone looking for a reliable and easy-to-use shopping cart solution and offers users the ability to effortlessly add, remove, and update products with ease. The app has been developed using the popular React and Redux-persist, ensuring that it delivers seamless and efficient performance. 
 
 ### LIVE DEMO: https://alsonpr.github.io/shopping-cart-redux/
 
